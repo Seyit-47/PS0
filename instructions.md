@@ -23,7 +23,7 @@ Before you start, follow these tutorials first:
 2. [Repl.it + Git tutorial](https://repl.it/talk/learn/Replit-Git-Tutorial/23331)
 
 
-** Raising a Number to a Power and Taking a Logarithm **
+**Raising a Number to a Power and Taking a Logarithm**
 
 Write a program that does the following in order:
 
