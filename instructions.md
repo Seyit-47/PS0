@@ -6,7 +6,7 @@
 3. You will recieve a verification code in your e-mail. Type it and `verify`. Please hit `Authorize Repl.it Online IDE`.
 4. Go to the link provided here: [Practical-1: The Shell](https://classroom.github.com/a/4mO89Rm9). Find and click onto your student id. `Authorize github` and `Accept this assignment`. 
 5. After a minute, refresh the page and you should see `Work in repl.it` button. `Authorize github` again. You should be directed to the Repl.it page, where we will conduct our lab session.
-6. On the left, you will see the shell file `main.sh`, hidden file `repl.it` and `README.md` file where you will find lab instructions.
+6. On the left, you will see the shell file `main.sh`, hidden file `.replit` and `instructions.md` file where you will find the instructions for the practical.
 7. At the bottom-right, you will see `terminal` on which we will be writing our shell commands. Please follow the instructions and look for the right command. Hit `enter` to run your commands. Do not hessitate to try and observe the results.
 8. `ctrl+l` and backspace icon at the top-right of the clears the terminal. Please never clear the terminal during the session, so that we can see your progress. Do not worry about wrong answers or failed trails. As long as you try to answer exercise questions and try to learn the material, you will get a *Complete*.
 9. **At the end of the session *before closing the repl.it tab*, please let the TA know that you are finished. We will check your terminal and view your commands. When the TA confirms that you have completed the tasks you can close repl.it.**
