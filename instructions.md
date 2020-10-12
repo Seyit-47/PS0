@@ -3,7 +3,7 @@
 1. Please go to https://github.com/ and create an account with your Koc University e-mail.
 2. Please go to https://repl.it/ and click `sign up`. At the top of the menu, find `Git` symbol and connect to Repl.it using your Git account.
 3. You will recieve a verification code in your e-mail. Type it and `verify`. Please hit `Authorize Repl.it Online IDE`.
-4. Go to the link provided here: [Practicals - 1](https://classroom.github.com/a/Zi5POECd). `Authorize github` and `Accept this assignment`. 
+4. Go to the link provided here: [Practical-1: The Shell](https://classroom.github.com/a/4mO89Rm9). Find and click onto your student id. `Authorize github` and `Accept this assignment`. 
 5. After a minute, refresh the page and you should see `Work in repl.it` button. `Authorize github` again. You should be directed to the Repl.it page, where we will conduct our lab session.
 6. On the left, you will see the shell file `main.sh`, hidden file `repl.it` and `README.md` file where you will find lab instructions.
 7. At the bottom-right, you will see `terminal` on which we will be writing our shell commands. Please follow the instructions and look for the right command. Hit `enter` to run your commands. Do not hessitate to try and observe the results.
@@ -30,6 +30,7 @@ Write a program that does the following in order:
 2. Asks the user to enter another number y.
 3. Prints out the number x, raised to the power y.
 4. Prints out the log (base 2) of x.
+5. Commit your work to the master branch with a meaningful commit message. Note that only your latest commit counts and it should be before the deadline.
 
 Use Repl.it to create your program, and save your code in the file named 'main.py'. An example of an interaction with your program is shown below.
 

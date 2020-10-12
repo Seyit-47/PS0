@@ -1,3 +1,7 @@
 ## PS0
-# Your code goes in here.
+# PART1: Hello World!
 # ---------------------------------------------------
+
+print('Hello world!')
+
+# Your code goes in here.
