@@ -1,5 +1,6 @@
 ## PART 0: Getting Started with Repl.it
 
+0. **Please use VPN if you're conencting from outside Turkey.** You can follow [these steps](https://confluence.ku.edu.tr/kuhelp/ithelp/it-services/network-and-wireless/vpn-access) for VPN access. 
 1. Please go to https://github.com/ and create an account with your Koc University e-mail.
 2. Please go to https://repl.it/ and click `sign up`. At the top of the menu, find `Git` symbol and connect to Repl.it using your Git account.
 3. You will recieve a verification code in your e-mail. Type it and `verify`. Please hit `Authorize Repl.it Online IDE`.
