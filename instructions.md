@@ -44,7 +44,7 @@ log(x) = 1
 
 **Hints**
 
-* To see how to use the `print` command, you may find it convenient to look at the [input](https://en.wikibooks.org/wiki/Non-Programmer\%27s_Tutorial_for_Python_3/Hello,_World) and [output](https://en.wikibooks.org/wiki/Non-Programmer\%27s_Tutorial_for_Python_3/Who_Goes_There\%3F) of the Python Wikibook. This will show you how to use print statements to print out values of variables.
+* To see how to use the `print` command, you may find it convenient to look at the [input](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Hello,_World) and [output](https://en.wikibooks.org/wiki/Learning_Python_3_with_the_Linkbot/Who_Goes_There%3F) of the Python Wikibook. This will show you how to use print statements to print out values of variables.
 
 * To see how to read input from a user's console into the Python environment, you may find it convenient to look at the same section (see for example the `input()` function).
 
