@@ -1,12 +1,10 @@
-## PS0
-# PART1: Hello World!
-# ---------------------------------------------------
+x = input("Type anything... ")
+x = int(x)
+y = input("Type anything... ")
+y = int(y)
+print(x**y)
 
-print('Hello world!')
-
-# Your code goes in here.
-x = "hey"
-x * 3
-name = input("what is you name?")
-print("Hello" , name)
-
+import math
+x = input("Type anything... ")
+x = int(x)
+print(math.log(x, 2))
